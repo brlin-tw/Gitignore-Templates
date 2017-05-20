@@ -1,4 +1,5 @@
 # Gitignore 範本<br>Gitignore Templates
+[![Build Status of the latest development snapshot on Travis CI](https://travis-ci.org/Lin-Buo-Ren/Gitignore-Templates.svg?branch=master)](https://travis-ci.org/Lin-Buo-Ren/Gitignore-Templates)  
 This project produces .gitignore template for a software project to setup and provide installation for GNU/Linux operating systems
 
 <http://github.com/Lin-Buo-Ren/Gitignore-Templates>
