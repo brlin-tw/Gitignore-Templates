@@ -11,7 +11,7 @@ init(){
 		-D\
 		--target-directory\
 		"$(determine_install_directory)"\
-		"${RUNTIME_EXECUTABLE_DIRECTORY}/"*.template\
+		"${RUNTIME_EXECUTABLE_DIRECTORY}/"*.gitignore\
 		"${RUNTIME_EXECUTABLE_DIRECTORY}/"*.desktop\
 		&& printf "Installation successful.\n"\
 		|| printf "Error: Installation failed.\n" 1>&2

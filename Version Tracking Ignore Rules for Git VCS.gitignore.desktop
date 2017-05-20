@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=.gitignore
 Type=Link
-URL=Gitignore.gitignore.template
+URL=Version Tracking Ignore Rules for Git VCS.gitignore
 Comment=Version Tracking Ignore Rules for Git VCS
 Comment[zh_TW]=用於 Git 版本控制系統的版本追蹤忽略規則
