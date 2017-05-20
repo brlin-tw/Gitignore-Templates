@@ -7,6 +7,7 @@
 init(){
 	install\
 		--verbose\
+		--mode=u=rw,go=r\
 		-D\
 		--target-directory\
 		"$(determine_install_directory)"\
