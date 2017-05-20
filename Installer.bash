@@ -23,7 +23,7 @@ check_runtime_dependencies(){
 		realpath\
 		dirname\
 		install
-		do
+	do
 		if ! command -v "${executable_name}" &>/dev/null; then
 			printf "%s: Error: Runtime dependency \"%s\" not found, please check your dependency installation\n" "${RUNTIME_EXECUTABLE_NAME}" "${executable_name}" 1>&2
 			exit 1
