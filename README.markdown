@@ -7,6 +7,10 @@ This project produces .gitignore template for a software project to setup and pr
 ## 原作者<br>Original Author
 林博仁
 
+## 棄用通知<br>Obsoletion notice
+
+This project is now obsoleted in favor of [The Common Gitattributes Templates](https://github.com/the-common/gitattributes-templates), consider migration.
+
 ## 智慧財產授權條款<br>Intellectual Property License
 [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or any later versions of your choice
 
